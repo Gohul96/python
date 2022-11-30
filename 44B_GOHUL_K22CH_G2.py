@@ -14,6 +14,7 @@ def rolldice(points):
             print(z,points,w)
     elif(human not in [1,2,3,4,5,6]):
             #return "Wrong Input","Enter Again"
+            223 
         print("Hmm Wrong Input ,Mmm Enter Again")
         rolldice(points)
     else:
